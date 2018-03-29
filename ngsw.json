@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "https://commentatorboy.github.io/PWACats/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://commentatorboy.github.io/PWACats/favicon.ico",
+        "https://commentatorboy.github.io/PWACats/index.html",
+        "https://commentatorboy.github.io/PWACats/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://commentatorboy.github.io/PWACats/main.c35c9acc5b1d9408d1c0.bundle.js",
+        "https://commentatorboy.github.io/PWACats/polyfills.bf95165a1d5098766b92.bundle.js",
+        "https://commentatorboy.github.io/PWACats/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://commentatorboy.github.io/PWACats/assets/cat_16.png",
+        "https://commentatorboy.github.io/PWACats/assets/cat_24.png",
+        "https://commentatorboy.github.io/PWACats/assets/cat_34.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://commentatorboy.github.io/PWACats/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://commentatorboy.github.io/PWACats/assets/cat_16.png": "24516172a84e704dd86d0f2a9d4438e4a6a1c9e0",
+    "https://commentatorboy.github.io/PWACats/main.c35c9acc5b1d9408d1c0.bundle.js": "722350b3034b88525c70343eb30d7f54a954d19b",
+    "https://commentatorboy.github.io/PWACats/assets/cat_24.png": "5028bb353e0bc53bb8d8ab27753a887056615ca9",
+    "https://commentatorboy.github.io/PWACats/polyfills.bf95165a1d5098766b92.bundle.js": "a6f53dc740620bba65b667af8e65beda02dff88a",
+    "https://commentatorboy.github.io/PWACats/assets/cat_34.png": "3cbf29985122916649b0fee27b8e98d290148049",
+    "https://commentatorboy.github.io/PWACats/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://commentatorboy.github.io/PWACats/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://commentatorboy.github.io/PWACats/index.html": "e09e6ead9c74e8f18a1dd538ffdfa972e4e2bac6"
+  }
+}
